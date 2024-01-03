@@ -1,4 +1,4 @@
-# Pokemon Dataset Exploratory
+# Pokemon Dataset Exploratory (In English)
 
 This Dataset contains data from the first eight generations of Pokemons.
 
